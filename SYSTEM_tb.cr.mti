@@ -1,0 +1,228 @@
+C:/altera/13.0/KLTN/TEST_SYSTEMv2/POS_INT2FP.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/POS_INT2FP.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module POS_INT2FP
+
+Top level modules:
+	POS_INT2FP
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/pre_norm_fmul.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/pre_norm_fmul.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pre_norm_fmul
+
+Top level modules:
+	pre_norm_fmul
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/ADDR_FOR_SVM.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/ADDR_FOR_SVM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ADDR_FOR_SVM
+
+Top level modules:
+	ADDR_FOR_SVM
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/HISTOGRAM_1CELL.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/HISTOGRAM_1CELL.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HISTOGRAM_1CELL
+
+Top level modules:
+	HISTOGRAM_1CELL
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/GRADIENT_1CELL.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/GRADIENT_1CELL.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module GRADIENT_1CELL
+
+Top level modules:
+	GRADIENT_1CELL
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/ADDITION_64_INPUTS.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/ADDITION_64_INPUTS.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ADDITION_64_INPUT
+
+Top level modules:
+	ADDITION_64_INPUT
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/Counter_Cell.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/Counter_Cell.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter_Cell
+
+Top level modules:
+	Counter_Cell
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/PreDecoderAddrCell.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/PreDecoderAddrCell.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PreDecoderAddrCell
+
+Top level modules:
+	PreDecoderAddrCell
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/GETHISTOGRAM_1PIXEL.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/GETHISTOGRAM_1PIXEL.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module GETHISTOGRAM_1PIXEL
+
+Top level modules:
+	GETHISTOGRAM_1PIXEL
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/post_norm.v {1 {vlog -work work {C:\altera\13.0\KLTN\TEST_SYSTEMv2\post_norm.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module post_norm
+-- Compiling module delay1
+-- Compiling module delay2
+-- Compiling module delay3
+
+Top level modules:
+	post_norm
+	delay2
+	delay3
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/except.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/except.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module except
+
+Top level modules:
+	except
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/DecoderAddrCell.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/DecoderAddrCell.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DecoderAddrCell
+
+Top level modules:
+	DecoderAddrCell
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/getbin.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/getbin.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module getbin
+
+Top level modules:
+	getbin
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/BLOCK_NORMALIZATION.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/BLOCK_NORMALIZATION.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BLOCK_NORMALIZATION
+
+Top level modules:
+	BLOCK_NORMALIZATION
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/BUFFER_HOG_PRENORM.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/BUFFER_HOG_PRENORM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BUFFER_HOG_PRENORM
+
+Top level modules:
+	BUFFER_HOG_PRENORM
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/SYSTEM_tb.v {1 {vlog -work work {C:\altera\13.0\KLTN\TEST_SYSTEMv2\SYSTEM_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SYSTEM_tb
+
+Top level modules:
+	SYSTEM_tb
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/pre_norm.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/pre_norm.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pre_norm
+
+Top level modules:
+	pre_norm
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/FPU.v {1 {vlog -work work {C:\altera\13.0\KLTN\TEST_SYSTEMv2\FPU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FPU
+
+Top level modules:
+	FPU
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/SVMCLASSIFY.v {1 {vlog -work work {C:\altera\13.0\KLTN\TEST_SYSTEMv2\SVMCLASSIFY.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SVMCLASSIFY
+
+Top level modules:
+	SVMCLASSIFY
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/Pre_Decoder.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/Pre_Decoder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Pre_Decoder
+
+Top level modules:
+	Pre_Decoder
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/primitives.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/primitives.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module add_sub27
+-- Compiling module mul_r2
+-- Compiling module div_r2
+
+Top level modules:
+	add_sub27
+	mul_r2
+	div_r2
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/Decoder.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/Decoder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Decoder
+
+Top level modules:
+	Decoder
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/fpu_norm.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/fpu_norm.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module fpu_norm
+
+Top level modules:
+	fpu_norm
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/GETHISTOGRAM_1CELL.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/GETHISTOGRAM_1CELL.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module GETHISTOGRAM_1CELL
+
+Top level modules:
+	GETHISTOGRAM_1CELL
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/BUFFER_HOG.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/BUFFER_HOG.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BUFFER_HOG
+
+Top level modules:
+	BUFFER_HOG
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/Counter.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/Counter.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter
+
+Top level modules:
+	Counter
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/GRADIENT_1PIXEL.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/GRADIENT_1PIXEL.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module GRADIENT_1PIXEL
+-- Compiling module gradient
+
+Top level modules:
+	GRADIENT_1PIXEL
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/HISTOGRAM_1CELL_PRENORM.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/HISTOGRAM_1CELL_PRENORM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HISTOGRAM_1CELL_PRENORM
+
+Top level modules:
+	HISTOGRAM_1CELL_PRENORM
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/Block_Normalization_Core.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/Block_Normalization_Core.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Block_Normalization_Core
+
+Top level modules:
+	Block_Normalization_Core
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/INV_ROOTSQUARE.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/INV_ROOTSQUARE.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module INV_ROOTSQUARE
+
+Top level modules:
+	INV_ROOTSQUARE
+
+} {} {}} C:/altera/13.0/KLTN/TEST_SYSTEMv2/SHIFT_FP.v {1 {vlog -work work C:/altera/13.0/KLTN/TEST_SYSTEMv2/SHIFT_FP.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SHIFT_FP
+
+Top level modules:
+	SHIFT_FP
+
+} {} {}}
